@@ -6,6 +6,9 @@
                     "Myorg\\PrivateBundle\\MyorgPrivateBundle": [
                         "all"
                     ]
+                },
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
                 }
             },
             "files": {
